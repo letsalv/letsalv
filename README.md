@@ -13,6 +13,11 @@
 
 <br/>
 <br/>
+
+![](https://github.com/letsalv/letsalv/blob/main/image0.gif)
+
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -136,6 +141,16 @@
   
 </div>
 
+<br/>
+<br/>
+
 ⚡⚡ Fun facts: In my free time I am an artist. I love to draw, paint, and I also know how to tattoo on human skin. I also love to learn different languages, such as German and Japanese. I long to be a polyglot.
+
+<br/>
+<br/>
+
+![](https://github.com/letsalv/letsalv/blob/main/image1.gif)
+
+
 
 
