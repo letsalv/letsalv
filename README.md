@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
   
- <img align="center" alt = "capa" height="300" width="800" src="https://www.cio.com/wp-content/uploads/2023/05/SW-Blog-image-Getty-1170x600-2.jpg?quality=50&strip=all">
+ <img align="center" alt = "capa" height="300" width="800" src="https://img.olhardigital.com.br/wp-content/uploads/2019/08/20190819040121.jpg">
  
 </div>
 <br/>
