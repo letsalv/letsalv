@@ -78,7 +78,7 @@
 <br/>
 <br/>
 
-##                                          🌟 Some oder skills in ARTIFICIAL INTELLIGENCE 🌟
+##                                          🌟 Some other skills in ARTIFICIAL INTELLIGENCE 🌟
 
 
 <div> ⚆ Machine Learning : proficiency in machine learning algorithms and mathematical foundations for their construction. Supervised and unsupervised learning algorithms,Q - learning. 
@@ -112,15 +112,15 @@
 <br/>
 <br/>
 
-  🤖🤖 I am completing an internship in Data Science. I developed task automation algorithms, a marketing bot for WhatsApp, and artificial intelligence for analysis, document approval, and fraud prevention for the Gash Pica Pau app. Data Analysis and Analytics Dashboards Devlopment. 
+  🤖🤖 I am completing an internship in Data Science. I developed task automation algorithms, a marketing bot for WhatsApp, and artificial intelligence for analysis, document approval, and fraud prevention for the Gash Pica Pau app. Data Analysis and Analytics Dashboards Development. 
 <br/>
 <br/>
    
-  🧑‍💻🧑‍💻 I am passionate about mathematics. I had the opportunity to delve into algebra research during my bachelor's degree in mathematics at UFV (Universidade Federal de Viçosa). I also studied Electrical Engineering at the same university. I have a great enthusiasm for scientific development and want to apply my mathematical knowledge in the creation of A.I. algorithms. I have a deep interest in projects involving Image Processing and Natural Language Processing.
+  🧑‍💻🧑‍💻 I am passionate about mathematics. I had the opportunity to delve into algebra research during my bachelor's degree in mathematics at UFV (Universidade Federal de Viçosa). I also studied Electrical Engineering at the same university. I've got a great enthusiasm for scientific development and want to apply my mathematical knowledge in the creation of A.I. algorithms. I have a deep interest in projects involving Digital Image Processing and Natural Language Processing.
 <br/>
 <br/>
    
-  📖📖 Mastery of various programming languages. My first contact was with C and C++, then I used Matlab in scientific developments at university. I am self-taught in most others, such as Python and Java. I have proficiency in SQL and various DBMS, as well as a deep knowledge of the data visualization tool Power BI and also in Excel. I am also developing my skills in non-relational databases, such as Neo4J and Cassandra.
+  📖📖 Mastery of various programming languages. My first contact was with C and C++, then I used Matlab in scientific developments at university. I am self-taught in most others, such as Python and Java. I have proficiency in SQL and various DBMS, as well as a deep knowledge of the data visualization tool Power BI and also Excel. I'm also developing my skills in non-relational databases, such as Neo4J and Cassandra.
 <br/>
 <br/>
    
